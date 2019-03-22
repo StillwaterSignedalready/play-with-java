@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Lesson1_1",
+            "request": "launch",
+            "mainClass": "Lesson1_1",
+            "projectName": "play-with-java_b983d45f"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - HelloJava",
             "request": "launch",
             "mainClass": "HelloJava"
